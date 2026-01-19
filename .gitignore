@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+dist/
+build/
+*.egg-info/
+long_term_memory.sqlite
+short_term_checkpoints.sqlite
